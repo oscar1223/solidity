@@ -1,2 +1,2 @@
-# CrownFunding
+# Narwhal CrownFunding
 Crypto dApp CronwFunding
