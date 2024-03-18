@@ -78,7 +78,6 @@ contract  CrowdFunding{
             Campaign storage item = campaigns[i];
 
             allCampaigns[i] = item;
-
         }
     }
     constructor() {}
