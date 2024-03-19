@@ -1,2 +1,2 @@
 # Narwhal CrowdFunding
-Crypto dApp CronwFunding
+Crypto dApp CronwFunding in Sepolia network.
